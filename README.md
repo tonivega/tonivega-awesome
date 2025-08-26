@@ -16,7 +16,9 @@
 
 | Tool | Preview | Description |
 |------|---------|-------------|
-| **aws-resources** | <img src="assets/img/aws-resources.png" width="60"/> | Standalone CLI command for simple listing of AWS EC2 and EBS resources for all regions |
+| **tv-aws-resources** | <img src="assets/img/tv-aws-resources.png" width="120"/> | Standalone CLI command for simple listing of AWS EC2 and EBS resources for all regions |
+| **tv-fuse-html** | <img src="assets/img/tv-fuse-html.png" width="120"/> | Standalone CLI command for mounting HTML url's as a Linux Filesystem |
+| **tv-simple-worker** | <img src="assets/img/tv-simple-worker.png" width="120"/> | Standalone CLI command used for distributing jobs to workers, manage jobs in a central broker and to add jobs to the central broker |
 
 ---
 
@@ -25,7 +27,9 @@
 <details>
   <summary>🛠️ DevOps & Infrastructure</summary>
   
-  - [aws-resources](aws-resources) – Standalone CLI command for simple listing of AWS EC2 and EBS resources for all regions.  
+  - [tv-aws-resources](bin/tv-aws-resources) – Standalone CLI command for simple listing of AWS EC2 and EBS resources for all regions.  
+  - [tv-fuse-html](bin/tv-fuse-html) – Standalone CLI command for mounting HTML url's as a Linux FUSE Filesystem
+  - [tv-simple-worker](bin/tv-simple-worker) – Standalone CLI command used for distributing jobs to workers, manage jobs in a central broker and to add jobs to the central broker 
 
 </details>
 
